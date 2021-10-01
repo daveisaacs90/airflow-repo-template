@@ -1,4 +1,4 @@
-""" Example Airflow DAG with custom plugin"""
+""" Example Airflow DAG with custom plugin test"""
 from datetime import timedelta
 
 from airflow import DAG
